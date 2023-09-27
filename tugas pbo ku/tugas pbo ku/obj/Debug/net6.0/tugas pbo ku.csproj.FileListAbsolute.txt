@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\kuliah semester 2\pbo\tugas pbo ku\tugas pbo ku\bin\Debug\net6.0\tugas pbo ku.exe
+C:\Users\Administrator\Documents\kuliah semester 2\pbo\tugas pbo ku\tugas pbo ku\bin\Debug\net6.0\tugas pbo ku.deps.json
+C:\Users\Administrator\Documents\kuliah semester 2\pbo\tugas pbo ku\tugas pbo ku\bin\Debug\net6.0\tugas pbo ku.runtimeconfig.json
+C:\Users\Administrator\Documents\kuliah semester 2\pbo\tugas pbo ku\tugas pbo ku\bin\Debug\net6.0\tugas pbo ku.dll
+C:\Users\Administrator\Documents\kuliah semester 2\pbo\tugas pbo ku\tugas pbo ku\bin\Debug\net6.0\tugas pbo ku.pdb
+C:\Users\Administrator\Documents\kuliah semester 2\pbo\tugas pbo ku\tugas pbo ku\obj\Debug\net6.0\tugas pbo ku.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\kuliah semester 2\pbo\tugas pbo ku\tugas pbo ku\obj\Debug\net6.0\tugas pbo ku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\kuliah semester 2\pbo\tugas pbo ku\tugas pbo ku\obj\Debug\net6.0\tugas pbo ku.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\kuliah semester 2\pbo\tugas pbo ku\tugas pbo ku\obj\Debug\net6.0\tugas pbo ku.AssemblyInfo.cs
+C:\Users\Administrator\Documents\kuliah semester 2\pbo\tugas pbo ku\tugas pbo ku\obj\Debug\net6.0\tugas pbo ku.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\kuliah semester 2\pbo\tugas pbo ku\tugas pbo ku\obj\Debug\net6.0\tugas pbo ku.dll
+C:\Users\Administrator\Documents\kuliah semester 2\pbo\tugas pbo ku\tugas pbo ku\obj\Debug\net6.0\refint\tugas pbo ku.dll
+C:\Users\Administrator\Documents\kuliah semester 2\pbo\tugas pbo ku\tugas pbo ku\obj\Debug\net6.0\tugas pbo ku.pdb
+C:\Users\Administrator\Documents\kuliah semester 2\pbo\tugas pbo ku\tugas pbo ku\obj\Debug\net6.0\tugas pbo ku.genruntimeconfig.cache
+C:\Users\Administrator\Documents\kuliah semester 2\pbo\tugas pbo ku\tugas pbo ku\obj\Debug\net6.0\ref\tugas pbo ku.dll
